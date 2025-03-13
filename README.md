@@ -6,8 +6,7 @@
 - Goal of project is to provide a new classification system through clustering, and provide more in-depth analysis into what makes each champion unique
 - Gathered own dataset through Riot's Developer APIs
 - Applied PCA for dimensionality reduction then subsequently K-means clustering
-- Served insights through an interactive [Tableau Dashboard](https://public.tableau.com/app/profile/emmanuel.kim/viz/lolclusteringdashboard/Dashboard1)
+- Served insights through an interactive [Tableau Dashboard](https://public.tableau.com/app/profile/emmanuel.kim/viz/lolclusteringdashboard/LolChampionClusters)
 - Full notebook [here](https://github.com/mannkenn/ClusteringLoLChampions/blob/main/clustering/clusteringchamps.ipynb)
 
-### Full in-depth project report linked [here] (COMING SOON):
 
